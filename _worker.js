@@ -1,4 +1,4 @@
-let mytoken = 'passwd';
+let mytoken = 'FUFUFUFU';
 
 export default {
     async fetch(request, env) {
